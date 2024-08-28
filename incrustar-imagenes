@@ -4,13 +4,9 @@
 <tr>
 <td style="width:200px;padding: 15px 15px 0 0;background-image:initial;background-repeat:initial;" valign="top">
 <p style="margin: 0; padding: 0;"><a href="https://www.nimbutech.com/" target="_blank" title="Nimbutech" style="text-decoration: none;border:none;outline:none;">
-<img src="https://raw.githubusercontent.com/MauroNimbutech/firma-nimbutech/dd641e27e63191f4526583a25d7cb19e6b2b12c0/Logo-nbt.svg" alt="Nimbutech" border="0" style="font-size:16px;color:#f15a24;line-height:1.5em;font-weight:bold;border:none;outline:none;" width="250px">
+<img src="https://raw.githubusercontent.com/MauroNimbutech/firma-nimbutech/e302f09848f9ae87017d78ab53a5f7fa807f2c00/Logos-firma.svg" alt="Nimbutech" border="0" style="font-size:16px;color:#f15a24;line-height:1.5em;font-weight:bold;border:none;outline:none;" width="265px">
 </a>
 </p>
-<div style="margin:0;text-align:left;">
-<a href="https://www.nimbutech.com/" target="_blank" title="Microsoft Partner Gold Cloud Productivity" style="text-decoration: none;border:none;outline:none;">
-<img src="https://raw.githubusercontent.com/MauroNimbutech/firma-nimbutech/dd641e27e63191f4526583a25d7cb19e6b2b12c0/nbt-logos-partners.svg" border="0" style="width:250px;font-size:12px;color:#333;border:none;outline:none;" alt="Microsoft Partner">
-</a>
 </div>
 </td>
 <td style="vertical-align:middle;white-space:nowrap;padding: 15px 0 0 15px;" colspan="2">
@@ -39,7 +35,9 @@ alt="Foto de perfil"> -->
 <tr>
 <td colspan="3" style="color:#515151;white-space:nowrap;vertical-align:bottom;padding: 0px;">
 <div style="margin-top:4px;font-size:11px;line-height:1.2em;font-family:Arial, Helvetica, sans-serif;">
-<b>Nimbutech S.A.S.</b> | <b>Partner de: Microsoft, Odoo, Acronis, Adobe y Kaspersky | <a href="https://www.nimbutech.com/" title="nimbutech.com" style="color:rgb(233,93,40);text-decoration:none" 		target="_blank">www.nimbutech.com</a></b><br> Cra 12 # 90-20 Bogotá, Colombia
+<b>Nimbutech S.A.S.</b> | <b>Partner de: Microsoft, Odoo, Alibaba Cloud, Acronis, Adobe y Kaspersky | <a href="https://www.nimbutech.com/" title="nimbutech.com" style="color:rgb(233,93,40);text-decoration:none"	target="_blank">www.nimbutech.com</a></b>
+<br> <span>Cra 12 # 90-20 Bogotá, Colombia</span> <br>
+<a href="https://www.nimbutech.com/" target="_blank"><img src="https://raw.githubusercontent.com/MauroNimbutech/firma-nimbutech/e302f09848f9ae87017d78ab53a5f7fa807f2c00/botonfirma.svg" alt="Boton de la firma" width="170px"></a>
 </div>
 </td>
 </tr>	
