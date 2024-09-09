@@ -2,32 +2,26 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   width="17px"
-   height="17px"
-   viewBox="0 0 48 48"
+   width="16.666668"
+   height="16.666668"
+   viewBox="0 0 40.000003 40.000003"
+   fill="none"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <title
-     id="title1">Facebook-color</title>
-  <desc
-     id="desc1">Created with Sketch.</desc>
   <defs
      id="defs1" />
-  <g
-     id="Icons"
-     stroke="none"
-     stroke-width="1"
-     fill="none"
-     fill-rule="evenodd">
-    <g
-       id="Color-"
-       transform="translate(-200,-160)"
-       fill="#4460a0">
-      <path
-         d="M 225.63835,208 H 202.64923 C 201.18567,208 200,206.81359 200,205.3506 V 162.64921 C 200,161.18585 201.18586,160 202.64923,160 h 42.70172 c 1.463,0 2.64905,1.18585 2.64905,2.64921 V 205.3506 C 248,206.81378 246.81377,208 245.35095,208 H 233.1193 v -18.58825 h 6.23922 l 0.93423,-7.24416 h -7.17345 v -4.62495 c 0,-2.09735 0.58241,-3.52663 3.58999,-3.52663 l 3.83602,-0.002 v -6.47924 c -0.66342,-0.0883 -2.94053,-0.28552 -5.58976,-0.28552 -5.53072,0 -9.3172,3.37596 -9.3172,9.57564 v 5.34238 h -6.25523 v 7.24416 h 6.25523 z"
-         id="Facebook" />
-    </g>
-  </g>
+  <circle
+     cx="20"
+     cy="20"
+     r="20"
+     fill="#3b5998"
+     id="circle1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 25.315,12.9578 C 24.6917,12.8331 23.8498,12.74 23.3204,12.74 c -1.4337,0 -1.5268,0.6233 -1.5268,1.6207 v 1.7754 h 3.5838 L 25.065,19.8137 H 21.7936 V 31 H 17.3063 V 19.8137 H 15 v -3.6776 h 2.3063 V 13.8613 C 17.3063,10.7453 18.7708,9 22.4477,9 c 1.2775,0 2.2125,0.187 3.4276,0.4363 z"
+     fill="#ffffff"
+     id="path1" />
 </svg>
