@@ -4,16 +4,42 @@
 <svg
    version="1.1"
    id="svg1"
-   width="170"
-   height="100"
-   viewBox="0 0 226.88 133.44"
+   width="167.91203"
+   height="57.866955"
+   viewBox="0 0 224.09342 77.217664"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <rect
+         style="fill:none;stroke-width:9.70469"
+         id="rect3"
+         width="226.41103"
+         height="74.840042"
+         x="0.099521212"
+         y="28.254644" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <rect
+         style="fill:none;stroke-width:5.41061"
+         id="rect4"
+         width="224.91821"
+         height="77.228554"
+         x="2.7865973"
+         y="28.254646"
+         clip-path="url(#clipPath3)" />
+    </clipPath>
+  </defs>
   <g
-     id="g1">
+     id="g1"
+     clip-path="url(#clipPath4)"
+     transform="translate(-2.7865973,-28.264059)">
     <image
        width="226.88"
        height="133.44"
